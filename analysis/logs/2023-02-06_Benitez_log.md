@@ -1,3 +1,4 @@
+Add info
 Rose:
 The highlight from the previous FOSS session, such as something you found particularly interesting. This could also be something you're excited to implement now.
 During this week in FOSS training session we learned about project management. I consider that the most relevant topic was Project Governance, it is relevant to establish the team role and responsabilities at the beginning of the project. Also, it is relevant to document this information for future projects or any new member of the team
